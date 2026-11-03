@@ -112,7 +112,7 @@ Sample Exchange Request:
 From| To| Offered| Wanted| Status
 Ananya| Student B| SQL| Java| Pending
 
----
+
 
 📂 Project Structure
 
